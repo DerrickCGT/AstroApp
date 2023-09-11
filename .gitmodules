@@ -1,0 +1,9 @@
+[submodule "DLL"]
+	path = DLL
+	url = https://github.com/RickyCgt/AstroMath
+[submodule "Server"]
+	path = Server
+	url = https://github.com/RickyCgt/AstroServer
+[submodule "Client"]
+	path = Client
+	url = https://github.com/RickyCgt/AstroClient
